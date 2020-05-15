@@ -1,4 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
+### Author: Enri Peters
+### Date: May 15 2020
+### Purpose: Use a loop device to setup Btrfs filesystem without cost.
+###          You don't have to purchase a hard drive.
 
 ## Install packages
 ## Create mount folder
