@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ### Purpose: Use a loop device to setup Btrfs filesystem without cost.
-###          You don't have to purchase a hard drive.
+###          You don't have to purchase a (virtual) disk.
 ### Author:  Enri Peters
 ### Date:    May 15 2020
 
